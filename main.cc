@@ -1,5 +1,6 @@
 #include <iostream>
+#include "Point2D.h"
 
 int main() {
-  std::cout << "hello whirled\n";
+  Point2D p(3, 1.41);
 }
